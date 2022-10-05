@@ -1,3 +1,0 @@
-Hello Guys this is file 1.
-Maing changes after commit 1.
-using clean command
